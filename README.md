@@ -1,5 +1,10 @@
 ### Olá, eu sou o Luís Felipe 👋
 
+- 🥳 18y
+- 📚 Gosto de aprender coisas novas
+- 👩‍💻Faço Sistemas de Internet no Senac
+- 👾 Ele/dele
+
 <div align="center">
   <a href="https://github.com/Sasuzin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sasuzin&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
