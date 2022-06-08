@@ -2,8 +2,9 @@
 
 - 🥳 18y
 - 📚 Gosto de aprender coisas novas
-- 👩‍💻Faço Sistemas de Internet no Senac
+- 👩‍💻 Faço Sistemas de Internet no Senac
 - 👾 Ele/dele
+- 🐱‍👤 Atualmente estou procurando uma oportunidade de emprego na area para novos aprendizados e vivências. 
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
