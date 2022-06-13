@@ -4,7 +4,7 @@
 - 📚 Gosto de aprender coisas novas
 - 👩‍💻 Faço Sistemas de Internet no Senac
 - 👾 Ele/dele
-- 🐱‍👤 Atualmente estou procurando uma oportunidade de emprego na area para novos aprendizados e vivências. 
+- 🐱‍👤 Atualmente estou procurando uma oportunidade de emprego na area para novos aprendizados e experiencia. 
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
