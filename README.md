@@ -1,7 +1,7 @@
 ### Olá, eu sou o Luís Felipe 👋
 
 - 🥳 18y
-- 📚 Gosto de aprender coisas novas
+- 📚 Gosto bastante de front-end.
 - 👩‍💻 Faço Sistemas de Internet no Senac
 - 👾 Ele/dele
 - 🐱‍👤 Atualmente estou procurando uma oportunidade de emprego na area para novos aprendizados e experiencia. 
