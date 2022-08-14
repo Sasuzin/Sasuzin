@@ -1,5 +1,5 @@
 ### Olá, eu sou o Luís Felipe 👋
-
+- 📚 Programador Junior 
 - 🥳 18y
 - 📚 Gosto bastante de front-end.
 - 👩‍💻 Faço Sistemas de Internet no Senac
