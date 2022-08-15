@@ -1,10 +1,9 @@
-### Olá, eu sou o Luís Felipe 👋
-- 📚 Programador Junior 
-- 🥳 18y
-- 📚 Gosto bastante de front-end.
+### Olá, eu sou o Luís Felipe 👋 
+- 🥳 19y
 - 👩‍💻 Faço Sistemas de Internet no Senac
 - 👾 Ele/dele
-- 🐱‍👤 Atualmente estou procurando uma oportunidade de emprego na area para novos aprendizados e experiencia. 
+- 🐱‍👤 Atualmente estou procurando uma oportunidade de emprego na area para novos aprendizados e experiencia.
+- ⚽ No meu tempo livre gosto de assistir séries, animes e praticar esportes. 
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
