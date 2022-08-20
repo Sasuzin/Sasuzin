@@ -3,7 +3,7 @@
 - 👩‍💻 Faço Sistemas de Internet no Senac
 - 👾 Ele/dele
 - 🐱‍👤 Atualmente estou procurando uma oportunidade de emprego na area para novos aprendizados e experiencia.
-- ⚽ No meu tempo livre gosto de assistir séries, animes e praticar esportes. 
+- ⚽ No meu tempo livre gosto de assistir séries, ler e aprender coisas novas.
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
