@@ -2,7 +2,7 @@
 - 🥳 19y
 - 👩‍💻 Faço Sistemas de Internet no Senac
 - 👾 Ele/dele
-- 🐱‍👤 Atualmente trabalho na Bless Processamentos de Dados.
+- 👤 Atualmente trabalho na Bless Processamentos de Dados.
 - ⚽ No meu tempo livre gosto de assistir séries, ler e aprender coisas novas.
 
 <div align="center">
