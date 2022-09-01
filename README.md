@@ -2,7 +2,8 @@
 - 🥳 19y
 - 👩‍💻 Faço Sistemas de Internet no Senac
 - 👾 Ele/dele
-- ⚽ No meu tempo livre gosto de assistir séries, ler e aprender coisas novas.
+- ⚽ No meu tempo livre gosto de, ler e aprender coisas novas e fazer projetos para meu portfolio.
+- 🚀 Meu maior objetivo é me tornar um Desenvolvedor Pleno e Full Stack
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
