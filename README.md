@@ -3,7 +3,7 @@
 - 👩‍💻 Faço Sistemas para Internet no Senac
 - 👾 Ele/dele
 - ⚽ No meu tempo livre gosto de, ler e aprender coisas novas e fazer projetos para meu portfolio.
-- 🚀 Meu maior objetivo é me tornar um Desenvolvedor Pleno e Full Stack
+- 🚀 Meu maior objetivo é me tornar um Desenvolvedor Full Stack daqui alguns anos.
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
