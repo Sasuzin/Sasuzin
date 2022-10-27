@@ -4,7 +4,7 @@
 - 👾 Ele/dele
 - ⚽ No meu tempo livre gosto de aprender coisas novas e fazer projetos para meu portfolio.
 - 🦉 No momento estou estudando e trabalhando com Kotlin, C# e SQL.
-- 🚀 Meu maior objetivo é me tornar um Desenvolvedor Full Stack daqui alguns anos.
+- 🚀 Meu maior objetivo é me tornar um Desenvolvedor Full Stack.
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
