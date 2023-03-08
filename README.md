@@ -1,8 +1,9 @@
 ### Olá, eu sou o Luís Felipe 👋 
-- 🥳 19y
-- 👩‍💻 Faço Sistemas para Internet no Senac
+- 🥳 19y.
+- 👩‍💻 Faço Sistemas para Internet no Senac.
 - ⚽ No meu tempo livre gosto de aprender coisas novas e fazer projetos para meu portfolio.
-- 🦉 No momento estou estudando e trabalhando com Kotlin, C# e SQL.
+- 🦉 No momento estou estudando e trabalhando com Angular, React, .NET Framework e C#.
+- 🎲 O banco de dados que mais utilizo é o SQL Management Studio.
 - 🚀 Meu maior objetivo é me tornar um Desenvolvedor Full Stack.
 
 <div align="center">
