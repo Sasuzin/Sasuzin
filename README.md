@@ -2,9 +2,8 @@
 - 🥳 20y.
 - 👩‍💻 Formado em Sistemas para Internet.
 - ⚽ No meu tempo livre gosto de aprender coisas novas e fazer projetos para meu portfolio.
-- 🦉 No momento estou estudando e trabalhando .NET Framework e C#.
+- 🦉 No momento estou procurando uma nova oportunidade na área como Desenvolvedor Full-stack Jr.
 - 🎲 O banco de dados que mais utilizo é o SQL.
-- 🚀 Meu maior objetivo é me tornar um Desenvolvedor Full Stack.
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
