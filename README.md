@@ -4,6 +4,7 @@
 - ⚽ No meu tempo livre gosto de aprender coisas novas e fazer projetos para meu portfolio.
 - 🦉 No momento estou procurando uma nova oportunidade na área como Desenvolvedor Full-stack Jr.
 - 🎲 O banco de dados que mais utilizo é o SQL.
+- 🚀Atualmente estou estudando frameworks Front-end como React e Angular.
 
 <div align="center">
   <a href="https://github.com/Sasuzin">
