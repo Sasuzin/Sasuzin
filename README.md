@@ -2,8 +2,8 @@
 - 🥳 22y.
 - 👩‍💻 Formado em Sistemas para Internet.
 - ⚽ No meu tempo livre gosto de aprender coisas novas e fazer projetos para meu portfolio.
-- 🦉 No momento estou procurando uma nova oportunidade na área como Desenvolvedor Full-stack Jr.
-- 🎲 O banco de dados que mais utilizo é o SQL.
+- 🦉 No momento estou procurando uma nova oportunidade na área como Desenvolvedor Full-stack Pleno.
+- 🎲 Atualmente trabalho com Automação de sistemas web e mobile.
 - 🚀Atualmente estou estudando frameworks Front-end como React e Angular.
 
 <div align="center">
