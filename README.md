@@ -50,12 +50,11 @@ Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Sys
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sasuzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasuzin&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+  <img src="https://streak-stats.demolab.com/?user=Sasuzin&theme=tokyonight&hide_border=true&background=1a1b27&fire=DD6387&ring=c792ea&currStreakLabel=c792ea"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sasuzin&theme=tokyonight&hide_border=true&background=1a1b27"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sasuzin&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
