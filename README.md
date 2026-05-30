@@ -53,10 +53,6 @@ Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Sys
   <img src="https://streak-stats.demolab.com/?user=Sasuzin&theme=tokyonight&hide_border=true&background=1a1b27&fire=DD6387&ring=c792ea&currStreakLabel=c792ea"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sasuzin&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
 ---
 
 ## 📬 Contato | Contact
