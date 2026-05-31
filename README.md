@@ -64,7 +64,7 @@ Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Sys
   <a href="mailto:lfelipepassos1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/luis-felipe-galv%C3%A3o-torrado-1672a8235/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-galv%C3%A3o/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
