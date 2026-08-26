@@ -42,6 +42,7 @@ Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Sys
   <img alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
 
@@ -50,7 +51,12 @@ Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Sys
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sasuzin&theme=tokyonight&hide_border=true&background=1a1b27&fire=DD6387&ring=c792ea&currStreakLabel=c792ea"/>
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Sasuzin&theme=tokyonight&hide_border=true&background=1a1b27&fire=DD6387&ring=c792ea&currStreakLabel=c792ea&cache_seconds=86400"/>
+  <br/>
+  <br/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/Sasuzin?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=1a1b27&color=c792ea"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/Sasuzin?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=1a1b27&color=DD6387"/>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Sasuzin&style=for-the-badge&label=PROFILE+VIEWS&color=7aa2f7"/>
 </div>
 
 ---
@@ -73,6 +79,10 @@ Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Sys
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/Sasuzin/Sasuzin/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sasuzin/Sasuzin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sasuzin/Sasuzin/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation dos meus commits" src="https://raw.githubusercontent.com/Sasuzin/Sasuzin/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>

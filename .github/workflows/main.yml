@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: Sasuzin
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#c792ea&color_dots=#ebedf0,#e8b4bc,#c1354f,#8a2039,#5c1a29
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#c792ea&color_dots=#1a1b27,#3b0f1c,#6b1e33,#97293e,#c1354f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
