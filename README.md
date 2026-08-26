@@ -10,7 +10,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Olá! Sou **Luís Felipe**, desenvolvedor Full-stack com formação em **Sistemas para Internet**. Tenho 22 anos, sou apaixonado por tecnologia e estou sempre buscando aprender algo novo.
+Olá! Sou **Luís Felipe**, desenvolvedor Full-stack com formação em **Sistemas para Internet**. Tenho 23 anos, sou apaixonado por tecnologia e estou sempre buscando aprender algo novo.
 
 - 🎯 Buscando oportunidade como **Desenvolvedor Full-stack Pleno**
 - 🤖 Trabalho atualmente com **automação de sistemas web e mobile**
@@ -22,7 +22,7 @@ Olá! Sou **Luís Felipe**, desenvolvedor Full-stack com formação em **Sistema
 
 ## 🇺🇸 About me
 
-Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Systems**. I'm 22 years old, passionate about technology, and always looking to learn something new.
+Hi! I'm **Luís Felipe**, a Full-stack developer with a degree in **Internet Systems**. I'm 23 years old, passionate about technology, and always looking to learn something new.
 
 - 🎯 Looking for a **Mid-level Full-stack Developer** position
 - 🤖 Currently working with **web and mobile system automation**
